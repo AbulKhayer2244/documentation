@@ -1,4 +1,5 @@
-# Raw
+Raw.khayersamimabd@gmail.com![qrcode-sign-in-game](https://github.com/knex/documentation/assets/109155430/0ee6a193-652b-4e00-b97c-1b5509a4aa8e)
+
 
 
 Sometimes you may need to use a raw expression in a query. Raw query object may be injected pretty much anywhere you want, and using proper bindings can ensure your values are escaped properly, preventing SQL-injection attacks.
